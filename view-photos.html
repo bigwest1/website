@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>View Photos</title>
+    <style>
+        body { font-family: Arial, sans-serif; }
+        .gallery { display: flex; flex-wrap: wrap; gap: 20px; }
+        .gallery-section { margin-bottom: 40px; }
+        .photo {
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            overflow: hidden;
+            width: 200px;
+            height: 200px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: #fafafa;
+        }
+        .photo img {
+            max-width: 100%;
+            max-height: 100%;
+            display: block;
+        }
+        h2 { margin-top: 0; }
+    </style>
+</head>
+<body>
+    <h1>Photo Gallery</h1>
+
+    <div class="gallery-section">
+        <h2>images/photos</h2>
+        <div class="gallery" id="photos-gallery">
+            <!-- Photos will be shown here by JavaScript -->
+        </div>
+        <div id="photos-empty" style="color: #888;"></div>
+    </div>
+
+    <div class="gallery-section">
+        <h2>images/self</h2>
+        <div class="gallery" id="self-gallery">
+            <!-- Photos will be shown here by JavaScript -->
+        </div>
+        <div id="self-empty" style="color: #888;"></div>
+    </div>
+
+    <script>
+        // List of file extensions to try
+        const exts = ['jpg', 'jpeg', 'png', 'gif', 'webp', 'bmp'];
+        
+        async function fetchImages(dir) {
+            // This method assumes you have a way to list files in directories over HTTP (like via an API, directory listing enabled, or serving from static JSON with the file list)
+            // For now, we attempt to fetch known filenames; update as per your backend
+            // Placeholder: try numbered images (1-20) with common extensions
+            let images = [];
+            for (let i = 1; i <= 20; i++) {
+                for (const ext of exts) {
+                    const url = `${dir}/${i}.${ext}`;
+                    try {
+                        const res = await fetch(url, { method: 'HEAD' });
+                        if (res.status === 200) images.push(url);
+                    } catch {}
+                }
+            }
+            return images;
+        }
+
+        async function showGallery(dir, galleryId, emptyId) {
+            const images = await fetchImages(dir);
+            const gallery = document.getElementById(galleryId);
+            const emptyMsg = document.getElementById(emptyId);
+            gallery.innerHTML = '';
+            if (images.length) {
+                emptyMsg.textContent = '';
+                images.forEach(src => {
+                    const div = document.createElement('div');
+                    div.className = 'photo';
+                    div.innerHTML = `<img src="${src}" alt="photo">`;
+                    gallery.appendChild(div);
+                });
+            } else {
+                emptyMsg.textContent = 'No photos found in ' + dir + '.';
+            }
+        }
+
+        // Show both galleries
+        showGallery('images/photos', 'photos-gallery', 'photos-empty');
+        showGallery('images/self', 'self-gallery', 'self-empty');
+    </script>
+</body>
+</html>
