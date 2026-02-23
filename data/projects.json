@@ -1,0 +1,1506 @@
+[
+  {
+    "id": 1,
+    "slug": "etfo-elementary-teachers-federation-of-ontario",
+    "title": "ETFO - Elementary Teachers' Federation of Ontario",
+    "client": "ETFO",
+    "image": "/images/portfolio/1.jpg",
+    "legacyUrl": "page-portfolio-detail.html",
+    "tags": [
+      "User Experience",
+      "Design",
+      "Wireframes",
+      "Prototype"
+    ],
+    "category": [
+      "ux",
+      "strategy",
+      "prototype"
+    ],
+    "role": "Lead UX Designer & Consultant",
+    "yearRange": "2010-2025",
+    "tools": [
+      "Figma",
+      "Axure RP",
+      "Design Systems",
+      "Usability Testing",
+      "Journey Mapping"
+    ],
+    "summary": "I redesigned ETFO's digital experience to reduce content overload, improve accessibility, and help educators find what they need faster.",
+    "challenge": "Teachers and union members were navigating a large content ecosystem with inconsistent structure, creating friction for both routine and high-priority tasks.",
+    "approach": "I led discovery workshops, audit-driven IA restructuring, and prototype validation rounds to simplify navigation, clarify hierarchy, and de-risk implementation decisions.",
+    "outcome": "The final direction delivered a calmer, more predictable member experience and a practical blueprint the team could implement with confidence.",
+    "featured": true,
+    "interactionDemo": "ux-process-map"
+  },
+  {
+    "id": 2,
+    "slug": "helmsley-charitable-trust",
+    "title": "Helmsley Charitable Trust",
+    "client": "Helmsley Charitable Trust",
+    "image": "/images/portfolio/2.jpg",
+    "legacyUrl": "p-helmsley.html",
+    "tags": [
+      "User Experience",
+      "Design",
+      "Wireframes",
+      "Prototype"
+    ],
+    "category": [
+      "ux",
+      "strategy",
+      "prototype"
+    ],
+    "role": "Lead UX Designer & Consultant",
+    "yearRange": "2010-2025",
+    "tools": [
+      "Figma",
+      "Axure RP",
+      "Design Systems",
+      "Usability Testing",
+      "Journey Mapping"
+    ],
+    "summary": "I shaped a donor-facing experience that feels credible and human, balancing institutional authority with clear storytelling.",
+    "challenge": "Complex program information and grant narratives needed to be communicated clearly without losing trust, nuance, or momentum toward action.",
+    "approach": "I partnered with stakeholders to model content, prototype key journeys, and refine information hierarchy around what donors and partners need to understand first.",
+    "outcome": "The experience improved clarity across programs, strengthened trust signals, and created smoother pathways for engagement and contribution.",
+    "featured": true,
+    "interactionDemo": "ux-process-map"
+  },
+  {
+    "id": 3,
+    "slug": "calpine-energy",
+    "title": "Calpine Energy",
+    "client": "Calpine Energy",
+    "image": "/images/portfolio/3.jpg",
+    "legacyUrl": "http://www.aol.com",
+    "tags": [
+      "User Experience",
+      "Design",
+      "Wireframes",
+      "Prototype"
+    ],
+    "category": [
+      "ux",
+      "strategy",
+      "prototype"
+    ],
+    "role": "Lead UX Designer & Consultant",
+    "yearRange": "2010-2025",
+    "tools": [
+      "Figma",
+      "Axure RP",
+      "Design Systems",
+      "Usability Testing",
+      "Journey Mapping"
+    ],
+    "summary": "I modernized Calpine Energy with enterprise-grade UX patterns that improve discoverability, flow efficiency, and cross-team alignment.",
+    "challenge": "Legacy structures and fragmented workflows made it difficult for teams to locate information and complete tasks efficiently.",
+    "approach": "I combined workflow mapping, interaction modeling, and prototype reviews to simplify complexity and de-risk delivery decisions.",
+    "outcome": "The updated experience improved task efficiency, strengthened internal adoption confidence, and accelerated implementation clarity.",
+    "featured": false,
+    "interactionDemo": "ux-process-map"
+  },
+  {
+    "id": 4,
+    "slug": "aphl-association-of-public-health",
+    "title": "APHL - Association of Public Health",
+    "client": "APHL",
+    "image": "/images/portfolio/4.jpg",
+    "legacyUrl": "http://www.aol.com",
+    "tags": [
+      "User Experience",
+      "Design",
+      "Wireframes",
+      "Prototype"
+    ],
+    "category": [
+      "ux",
+      "strategy",
+      "prototype"
+    ],
+    "role": "Lead UX Designer & Consultant",
+    "yearRange": "2010-2025",
+    "tools": [
+      "Figma",
+      "Axure RP",
+      "Design Systems",
+      "Usability Testing",
+      "Journey Mapping"
+    ],
+    "summary": "I designed a healthcare-oriented UX experience for APHL - Association of Public Health that improves clarity in complex, high-consequence workflows.",
+    "challenge": "Critical users needed to act quickly with confidence, but dense interfaces and unclear priorities increased decision friction.",
+    "approach": "I mapped scenario-based journeys, clarified key states and handoffs, and iterated prototypes with stakeholders to improve comprehension and speed.",
+    "outcome": "The experience reduced ambiguity, supported safer task completion, and gave teams a clearer foundation for scale and governance.",
+    "featured": false,
+    "interactionDemo": "ux-process-map"
+  },
+  {
+    "id": 5,
+    "slug": "protiviti-various-interal-sites",
+    "title": "Protiviti - Various internal sites",
+    "client": "Protiviti",
+    "image": "/images/portfolio/5.jpg",
+    "legacyUrl": "http://www.aol.com",
+    "tags": [
+      "User Experience",
+      "Design",
+      "Wireframes",
+      "Prototype"
+    ],
+    "category": [
+      "ux",
+      "strategy",
+      "prototype"
+    ],
+    "role": "Lead UX Designer & Consultant",
+    "yearRange": "2010-2025",
+    "tools": [
+      "Figma",
+      "Axure RP",
+      "Design Systems",
+      "Usability Testing",
+      "Journey Mapping"
+    ],
+    "summary": "I modernized Protiviti - Various internal sites with enterprise-grade UX patterns that improve discoverability, flow efficiency, and cross-team alignment.",
+    "challenge": "Legacy structures and fragmented workflows made it difficult for teams to locate information and complete tasks efficiently.",
+    "approach": "I combined workflow mapping, interaction modeling, and prototype reviews to simplify complexity and de-risk delivery decisions.",
+    "outcome": "The updated experience improved task efficiency, strengthened internal adoption confidence, and accelerated implementation clarity.",
+    "featured": false,
+    "interactionDemo": "ux-process-map"
+  },
+  {
+    "id": 6,
+    "slug": "various-graphic-design",
+    "title": "Various Graphic Design",
+    "client": "Various Graphic Design",
+    "image": "/images/portfolio/6.jpg",
+    "legacyUrl": "http://www.aol.com",
+    "tags": [
+      "User Experience",
+      "Design",
+      "Wireframes",
+      "Prototype"
+    ],
+    "category": [
+      "ux",
+      "strategy",
+      "prototype"
+    ],
+    "role": "Lead UX Designer & Consultant",
+    "yearRange": "2010-2025",
+    "tools": [
+      "Figma",
+      "Axure RP",
+      "Design Systems",
+      "Usability Testing",
+      "Journey Mapping"
+    ],
+    "summary": "I modernized Various Graphic Design with enterprise-grade UX patterns that improve discoverability, flow efficiency, and cross-team alignment.",
+    "challenge": "Legacy structures and fragmented workflows made it difficult for teams to locate information and complete tasks efficiently.",
+    "approach": "I combined workflow mapping, interaction modeling, and prototype reviews to simplify complexity and de-risk delivery decisions.",
+    "outcome": "The updated experience improved task efficiency, strengthened internal adoption confidence, and accelerated implementation clarity.",
+    "featured": false,
+    "interactionDemo": "ux-process-map"
+  },
+  {
+    "id": 7,
+    "slug": "healthchildren-org-aap-media-plan",
+    "title": "HealthChildren.org - AAP Media Plan",
+    "client": "HealthChildren.org",
+    "image": "/images/portfolio/7.jpg",
+    "legacyUrl": "http://www.aol.com",
+    "tags": [
+      "User Experience",
+      "Design",
+      "Wireframes",
+      "Prototype"
+    ],
+    "category": [
+      "ux",
+      "strategy",
+      "prototype"
+    ],
+    "role": "Lead UX Designer & Consultant",
+    "yearRange": "2010-2025",
+    "tools": [
+      "Figma",
+      "Axure RP",
+      "Design Systems",
+      "Usability Testing",
+      "Journey Mapping"
+    ],
+    "summary": "I designed a healthcare-oriented UX experience for HealthChildren.org - AAP Media Plan that improves clarity in complex, high-consequence workflows.",
+    "challenge": "Critical users needed to act quickly with confidence, but dense interfaces and unclear priorities increased decision friction.",
+    "approach": "I mapped scenario-based journeys, clarified key states and handoffs, and iterated prototypes with stakeholders to improve comprehension and speed.",
+    "outcome": "The experience reduced ambiguity, supported safer task completion, and gave teams a clearer foundation for scale and governance.",
+    "featured": false,
+    "interactionDemo": "ux-process-map"
+  },
+  {
+    "id": 8,
+    "slug": "american-medical-association",
+    "title": "American Medical Association",
+    "client": "American Medical Association",
+    "image": "/images/portfolio/8.jpg",
+    "legacyUrl": "http://www.aol.com",
+    "tags": [
+      "User Experience",
+      "Design",
+      "Wireframes",
+      "Prototype"
+    ],
+    "category": [
+      "ux",
+      "strategy",
+      "prototype"
+    ],
+    "role": "Lead UX Designer & Consultant",
+    "yearRange": "2010-2025",
+    "tools": [
+      "Figma",
+      "Axure RP",
+      "Design Systems",
+      "Usability Testing",
+      "Journey Mapping"
+    ],
+    "summary": "I designed a healthcare-oriented UX experience for American Medical Association that improves clarity in complex, high-consequence workflows.",
+    "challenge": "Critical users needed to act quickly with confidence, but dense interfaces and unclear priorities increased decision friction.",
+    "approach": "I mapped scenario-based journeys, clarified key states and handoffs, and iterated prototypes with stakeholders to improve comprehension and speed.",
+    "outcome": "The experience reduced ambiguity, supported safer task completion, and gave teams a clearer foundation for scale and governance.",
+    "featured": false,
+    "interactionDemo": "ux-process-map"
+  },
+  {
+    "id": 9,
+    "slug": "protiviti-imanage-design",
+    "title": "Protiviti - iManage Design",
+    "client": "Protiviti",
+    "image": "/images/portfolio/9.jpg",
+    "legacyUrl": "http://www.aol.com",
+    "tags": [
+      "User Experience",
+      "Design",
+      "Wireframes",
+      "Prototype"
+    ],
+    "category": [
+      "ux",
+      "strategy",
+      "prototype"
+    ],
+    "role": "Lead UX Designer & Consultant",
+    "yearRange": "2010-2025",
+    "tools": [
+      "Figma",
+      "Axure RP",
+      "Design Systems",
+      "Usability Testing",
+      "Journey Mapping"
+    ],
+    "summary": "I designed an enterprise knowledge-management experience that helps teams move from information search to confident action.",
+    "challenge": "Consultants needed to locate the right artifacts quickly, but inconsistent taxonomy and workflow friction slowed decision-making.",
+    "approach": "I mapped high-frequency workflows, simplified navigation patterns, and iterated interactive prototypes with cross-functional partners before handoff.",
+    "outcome": "The redesigned experience reduced hunting behavior, improved internal adoption confidence, and aligned design intent with implementation realities.",
+    "featured": true,
+    "interactionDemo": "ux-process-map"
+  },
+  {
+    "id": 10,
+    "slug": "hillrom-medical-ecp-project",
+    "title": "Hillrom Medical - ECP Project",
+    "client": "Hillrom Medical",
+    "image": "/images/portfolio/10.jpg",
+    "legacyUrl": "http://www.aol.com",
+    "tags": [
+      "User Experience",
+      "Design",
+      "Wireframes",
+      "Prototype"
+    ],
+    "category": [
+      "ux",
+      "strategy",
+      "prototype"
+    ],
+    "role": "Lead UX Designer & Consultant",
+    "yearRange": "2010-2025",
+    "tools": [
+      "Figma",
+      "Axure RP",
+      "Design Systems",
+      "Usability Testing",
+      "Journey Mapping"
+    ],
+    "summary": "I designed a healthcare-oriented UX experience for Hillrom Medical - ECP Project that improves clarity in complex, high-consequence workflows.",
+    "challenge": "Critical users needed to act quickly with confidence, but dense interfaces and unclear priorities increased decision friction.",
+    "approach": "I mapped scenario-based journeys, clarified key states and handoffs, and iterated prototypes with stakeholders to improve comprehension and speed.",
+    "outcome": "The experience reduced ambiguity, supported safer task completion, and gave teams a clearer foundation for scale and governance.",
+    "featured": false,
+    "interactionDemo": "ux-process-map"
+  },
+  {
+    "id": 11,
+    "slug": "hilton-hotels-internal-assignments-tracking",
+    "title": "Hilton Hotels - Internal Assignments/Tracking",
+    "client": "Hilton Hotels",
+    "image": "/images/portfolio/11.jpg",
+    "legacyUrl": "http://www.aol.com",
+    "tags": [
+      "User Experience",
+      "Design",
+      "Wireframes",
+      "Prototype"
+    ],
+    "category": [
+      "ux",
+      "strategy",
+      "prototype"
+    ],
+    "role": "Lead UX Designer & Consultant",
+    "yearRange": "2010-2025",
+    "tools": [
+      "Figma",
+      "Axure RP",
+      "Design Systems",
+      "Usability Testing",
+      "Journey Mapping"
+    ],
+    "summary": "I designed a people-centered digital experience for Hilton Hotels - Internal Assignments/Tracking focused on intuitive navigation and stronger day-to-day usability.",
+    "challenge": "A wide mix of user needs and content depth created avoidable friction across common and repeat workflows.",
+    "approach": "I led discovery sessions, reworked content hierarchy, and built iterative prototypes to align product goals with real user behavior.",
+    "outcome": "The redesign improved findability, reduced navigation fatigue, and created a more durable UX framework for future iterations.",
+    "featured": false,
+    "interactionDemo": "ux-process-map"
+  },
+  {
+    "id": 12,
+    "slug": "protiviti-the-hub",
+    "title": "Protiviti - The HUB",
+    "client": "Protiviti",
+    "image": "/images/portfolio/12.jpg",
+    "legacyUrl": "http://www.aol.com",
+    "tags": [
+      "User Experience",
+      "Design",
+      "Wireframes",
+      "Prototype"
+    ],
+    "category": [
+      "ux",
+      "strategy",
+      "prototype"
+    ],
+    "role": "Lead UX Designer & Consultant",
+    "yearRange": "2010-2025",
+    "tools": [
+      "Figma",
+      "Axure RP",
+      "Design Systems",
+      "Usability Testing",
+      "Journey Mapping"
+    ],
+    "summary": "I modernized Protiviti - The HUB with enterprise-grade UX patterns that improve discoverability, flow efficiency, and cross-team alignment.",
+    "challenge": "Legacy structures and fragmented workflows made it difficult for teams to locate information and complete tasks efficiently.",
+    "approach": "I combined workflow mapping, interaction modeling, and prototype reviews to simplify complexity and de-risk delivery decisions.",
+    "outcome": "The updated experience improved task efficiency, strengthened internal adoption confidence, and accelerated implementation clarity.",
+    "featured": false,
+    "interactionDemo": "ux-process-map"
+  },
+  {
+    "id": 13,
+    "slug": "protiviti-proconnect",
+    "title": "Protiviti - ProConnect",
+    "client": "Protiviti",
+    "image": "/images/portfolio/13.jpg",
+    "legacyUrl": "http://www.aol.com",
+    "tags": [
+      "User Experience",
+      "Design",
+      "Wireframes",
+      "Prototype"
+    ],
+    "category": [
+      "ux",
+      "strategy",
+      "prototype"
+    ],
+    "role": "Lead UX Designer & Consultant",
+    "yearRange": "2010-2025",
+    "tools": [
+      "Figma",
+      "Axure RP",
+      "Design Systems",
+      "Usability Testing",
+      "Journey Mapping"
+    ],
+    "summary": "I modernized Protiviti - ProConnect with enterprise-grade UX patterns that improve discoverability, flow efficiency, and cross-team alignment.",
+    "challenge": "Legacy structures and fragmented workflows made it difficult for teams to locate information and complete tasks efficiently.",
+    "approach": "I combined workflow mapping, interaction modeling, and prototype reviews to simplify complexity and de-risk delivery decisions.",
+    "outcome": "The updated experience improved task efficiency, strengthened internal adoption confidence, and accelerated implementation clarity.",
+    "featured": false,
+    "interactionDemo": "ux-process-map"
+  },
+  {
+    "id": 14,
+    "slug": "protiviti-pss-site-design",
+    "title": "Protiviti - PSS Site Design",
+    "client": "Protiviti",
+    "image": "/images/portfolio/14.jpg",
+    "legacyUrl": "http://www.aol.com",
+    "tags": [
+      "User Experience",
+      "Design",
+      "Wireframes",
+      "Prototype"
+    ],
+    "category": [
+      "ux",
+      "strategy",
+      "prototype"
+    ],
+    "role": "Lead UX Designer & Consultant",
+    "yearRange": "2010-2025",
+    "tools": [
+      "Figma",
+      "Axure RP",
+      "Design Systems",
+      "Usability Testing",
+      "Journey Mapping"
+    ],
+    "summary": "I modernized Protiviti - PSS Site Design with enterprise-grade UX patterns that improve discoverability, flow efficiency, and cross-team alignment.",
+    "challenge": "Legacy structures and fragmented workflows made it difficult for teams to locate information and complete tasks efficiently.",
+    "approach": "I combined workflow mapping, interaction modeling, and prototype reviews to simplify complexity and de-risk delivery decisions.",
+    "outcome": "The updated experience improved task efficiency, strengthened internal adoption confidence, and accelerated implementation clarity.",
+    "featured": false,
+    "interactionDemo": "ux-process-map"
+  },
+  {
+    "id": 15,
+    "slug": "qts-data-centers",
+    "title": "QTS Data Centers",
+    "client": "QTS Data Centers",
+    "image": "/images/portfolio/15.jpg",
+    "legacyUrl": "http://www.aol.com",
+    "tags": [
+      "User Experience",
+      "Design",
+      "Wireframes",
+      "Prototype"
+    ],
+    "category": [
+      "ux",
+      "strategy",
+      "prototype"
+    ],
+    "role": "Lead UX Designer & Consultant",
+    "yearRange": "2010-2025",
+    "tools": [
+      "Figma",
+      "Axure RP",
+      "Design Systems",
+      "Usability Testing",
+      "Journey Mapping"
+    ],
+    "summary": "I modernized QTS Data Centers with enterprise-grade UX patterns that improve discoverability, flow efficiency, and cross-team alignment.",
+    "challenge": "Legacy structures and fragmented workflows made it difficult for teams to locate information and complete tasks efficiently.",
+    "approach": "I combined workflow mapping, interaction modeling, and prototype reviews to simplify complexity and de-risk delivery decisions.",
+    "outcome": "The updated experience improved task efficiency, strengthened internal adoption confidence, and accelerated implementation clarity.",
+    "featured": false,
+    "interactionDemo": "ux-process-map"
+  },
+  {
+    "id": 16,
+    "slug": "risk-index-project",
+    "title": "Risk Index Project",
+    "client": "Risk Index Project",
+    "image": "/images/portfolio/16.jpg",
+    "legacyUrl": "http://www.aol.com",
+    "tags": [
+      "User Experience",
+      "Design",
+      "Wireframes",
+      "Prototype"
+    ],
+    "category": [
+      "ux",
+      "strategy",
+      "prototype"
+    ],
+    "role": "Lead UX Designer & Consultant",
+    "yearRange": "2010-2025",
+    "tools": [
+      "Figma",
+      "Axure RP",
+      "Design Systems",
+      "Usability Testing",
+      "Journey Mapping"
+    ],
+    "summary": "I translated complex financial and risk content for Risk Index Project into decision-friendly flows that feel trustworthy and easy to navigate.",
+    "challenge": "Users faced complex information density and compliance-sensitive content that made key decisions harder than they should be.",
+    "approach": "I used IA restructuring, progressive disclosure, and prototype-led validation to make paths clearer without losing necessary detail.",
+    "outcome": "The resulting UX improved confidence in core decisions and gave stakeholders a cleaner path from strategy to implementation.",
+    "featured": false,
+    "interactionDemo": "ux-process-map"
+  },
+  {
+    "id": 17,
+    "slug": "micebox-stop-motion-animation",
+    "title": "Micebox - Stop Motion Animation",
+    "client": "Micebox",
+    "image": "/images/portfolio/17.jpg",
+    "legacyUrl": "http://www.aol.com",
+    "tags": [
+      "Animation"
+    ],
+    "category": [
+      "animation",
+      "motion"
+    ],
+    "role": "Creative UX Motion Designer",
+    "yearRange": "2002-2012",
+    "tools": [
+      "Storyboarding",
+      "Motion Design",
+      "After Effects",
+      "Timing Curves",
+      "Narrative Prototyping"
+    ],
+    "summary": "I crafted playful motion concepts for Micebox - Stop Motion Animation that blend character, timing, and narrative rhythm into memorable experiences.",
+    "challenge": "The creative needed to feel fun and distinctive while still communicating clearly across short attention windows.",
+    "approach": "I iterated rapidly through styleframes, animatics, and motion timing passes to tune personality, pacing, and story beats.",
+    "outcome": "The delivered work strengthened brand personality, increased engagement, and demonstrated a repeatable creative production process.",
+    "featured": false,
+    "interactionDemo": "motion-breakdown"
+  },
+  {
+    "id": 18,
+    "slug": "nickelodeon-early-a-and-b-side",
+    "title": "Nickelodeon - Early A and B side",
+    "client": "Nickelodeon",
+    "image": "/images/portfolio/18.jpg",
+    "legacyUrl": "http://www.aol.com",
+    "tags": [
+      "Animation"
+    ],
+    "category": [
+      "animation",
+      "motion"
+    ],
+    "role": "Creative UX Motion Designer",
+    "yearRange": "2002-2012",
+    "tools": [
+      "Storyboarding",
+      "Motion Design",
+      "After Effects",
+      "Timing Curves",
+      "Narrative Prototyping"
+    ],
+    "summary": "I crafted playful motion concepts for Nickelodeon - Early A and B side that blend character, timing, and narrative rhythm into memorable experiences.",
+    "challenge": "The creative needed to feel fun and distinctive while still communicating clearly across short attention windows.",
+    "approach": "I iterated rapidly through styleframes, animatics, and motion timing passes to tune personality, pacing, and story beats.",
+    "outcome": "The delivered work strengthened brand personality, increased engagement, and demonstrated a repeatable creative production process.",
+    "featured": false,
+    "interactionDemo": "motion-breakdown"
+  },
+  {
+    "id": 19,
+    "slug": "japs-olson-company-product-animations",
+    "title": "Japs-Olson Company - Product Animations",
+    "client": "Japs",
+    "image": "/images/portfolio/19.jpg",
+    "legacyUrl": "http://www.aol.com",
+    "tags": [
+      "Animation"
+    ],
+    "category": [
+      "animation",
+      "motion"
+    ],
+    "role": "Creative UX Motion Designer",
+    "yearRange": "2002-2012",
+    "tools": [
+      "Storyboarding",
+      "Motion Design",
+      "After Effects",
+      "Timing Curves",
+      "Narrative Prototyping"
+    ],
+    "summary": "I directed motion design for Japs-Olson Company - Product Animations to turn dense information into clear, engaging visual storytelling.",
+    "challenge": "Stakeholders needed high-retention communication pieces that could explain ideas quickly without sacrificing brand quality.",
+    "approach": "I built a storyboard-to-animation workflow with timing tests, narration alignment, and iterative critique loops.",
+    "outcome": "The final assets increased audience comprehension, improved message recall, and gave teams reusable motion patterns for future campaigns.",
+    "featured": false,
+    "interactionDemo": "motion-breakdown"
+  },
+  {
+    "id": 20,
+    "slug": "ecolab-watermarx-line-animation",
+    "title": "Ecolab - Watermarx line - Animation",
+    "client": "Ecolab",
+    "image": "/images/portfolio/20.jpg",
+    "legacyUrl": "http://www.aol.com",
+    "tags": [
+      "Animation"
+    ],
+    "category": [
+      "animation",
+      "motion"
+    ],
+    "role": "Creative UX Motion Designer",
+    "yearRange": "2002-2012",
+    "tools": [
+      "Storyboarding",
+      "Motion Design",
+      "After Effects",
+      "Timing Curves",
+      "Narrative Prototyping"
+    ],
+    "summary": "I produced motion-driven explainers for Ecolab - Watermarx line - Animation that made technical or operational content easier to understand at a glance.",
+    "challenge": "Teams needed concise visual communication for complex topics that audiences could absorb quickly and correctly.",
+    "approach": "I translated requirements into storyboard sequences, interaction-aware timing, and polished animation systems ready for distribution.",
+    "outcome": "The work improved communication clarity, reduced interpretation errors, and delivered a more consistent branded presentation.",
+    "featured": false,
+    "interactionDemo": "motion-breakdown"
+  },
+  {
+    "id": 21,
+    "slug": "comcast-universal-interal-promotional",
+    "title": "Comcast Universal - Internal Promotional",
+    "client": "Comcast Universal",
+    "image": "/images/portfolio/21.jpg",
+    "legacyUrl": "http://www.aol.com",
+    "tags": [
+      "Animation"
+    ],
+    "category": [
+      "animation",
+      "motion"
+    ],
+    "role": "Creative UX Motion Designer",
+    "yearRange": "2002-2012",
+    "tools": [
+      "Storyboarding",
+      "Motion Design",
+      "After Effects",
+      "Timing Curves",
+      "Narrative Prototyping"
+    ],
+    "summary": "I directed motion design for Comcast Universal - Internal Promotional to turn dense information into clear, engaging visual storytelling.",
+    "challenge": "Stakeholders needed high-retention communication pieces that could explain ideas quickly without sacrificing brand quality.",
+    "approach": "I built a storyboard-to-animation workflow with timing tests, narration alignment, and iterative critique loops.",
+    "outcome": "The final assets increased audience comprehension, improved message recall, and gave teams reusable motion patterns for future campaigns.",
+    "featured": false,
+    "interactionDemo": "motion-breakdown"
+  },
+  {
+    "id": 22,
+    "slug": "electronic-arts-discovery-channel-nickelodeon-mall-of-america-cloud",
+    "title": "Electronic Arts, Discovery Channel, Nickelodeon, Mall of America - Cloud",
+    "client": "Electronic Arts, Discovery Channel, Nickelodeon, Mall of America",
+    "image": "/images/portfolio/22.jpg",
+    "legacyUrl": "http://www.aol.com",
+    "tags": [
+      "User Experience",
+      "Design",
+      "Wireframes",
+      "Prototype"
+    ],
+    "category": [
+      "ux",
+      "strategy",
+      "prototype"
+    ],
+    "role": "Lead UX Designer & Consultant",
+    "yearRange": "2010-2025",
+    "tools": [
+      "Figma",
+      "Axure RP",
+      "Design Systems",
+      "Usability Testing",
+      "Journey Mapping"
+    ],
+    "summary": "I modernized Electronic Arts, Discovery Channel, Nickelodeon, Mall of America - Cloud with enterprise-grade UX patterns that improve discoverability, flow efficiency, and cross-team alignment.",
+    "challenge": "Legacy structures and fragmented workflows made it difficult for teams to locate information and complete tasks efficiently.",
+    "approach": "I combined workflow mapping, interaction modeling, and prototype reviews to simplify complexity and de-risk delivery decisions.",
+    "outcome": "The updated experience improved task efficiency, strengthened internal adoption confidence, and accelerated implementation clarity.",
+    "featured": false,
+    "interactionDemo": "ux-process-map"
+  },
+  {
+    "id": 23,
+    "slug": "unitedhealth-group-optumhealth-cloud",
+    "title": "UnitedHealth Group / OptumHealth - Cloud",
+    "client": "UnitedHealth Group / OptumHealth",
+    "image": "/images/portfolio/23.jpg",
+    "legacyUrl": "http://www.aol.com",
+    "tags": [
+      "User Experience",
+      "Design",
+      "Wireframes",
+      "Prototype"
+    ],
+    "category": [
+      "ux",
+      "strategy",
+      "prototype"
+    ],
+    "role": "Lead UX Designer & Consultant",
+    "yearRange": "2010-2025",
+    "tools": [
+      "Figma",
+      "Axure RP",
+      "Design Systems",
+      "Usability Testing",
+      "Journey Mapping"
+    ],
+    "summary": "I designed a healthcare-oriented UX experience for UnitedHealth Group / OptumHealth - Cloud that improves clarity in complex, high-consequence workflows.",
+    "challenge": "Critical users needed to act quickly with confidence, but dense interfaces and unclear priorities increased decision friction.",
+    "approach": "I mapped scenario-based journeys, clarified key states and handoffs, and iterated prototypes with stakeholders to improve comprehension and speed.",
+    "outcome": "The experience reduced ambiguity, supported safer task completion, and gave teams a clearer foundation for scale and governance.",
+    "featured": false,
+    "interactionDemo": "ux-process-map"
+  },
+  {
+    "id": 24,
+    "slug": "character-animation",
+    "title": "Character Animation",
+    "client": "Character Animation",
+    "image": "/images/portfolio/24.jpg",
+    "legacyUrl": "http://www.aol.com",
+    "tags": [
+      "Animation"
+    ],
+    "category": [
+      "animation",
+      "motion"
+    ],
+    "role": "Creative UX Motion Designer",
+    "yearRange": "2002-2012",
+    "tools": [
+      "Storyboarding",
+      "Motion Design",
+      "After Effects",
+      "Timing Curves",
+      "Narrative Prototyping"
+    ],
+    "summary": "I crafted playful motion concepts for Character Animation that blend character, timing, and narrative rhythm into memorable experiences.",
+    "challenge": "The creative needed to feel fun and distinctive while still communicating clearly across short attention windows.",
+    "approach": "I iterated rapidly through styleframes, animatics, and motion timing passes to tune personality, pacing, and story beats.",
+    "outcome": "The delivered work strengthened brand personality, increased engagement, and demonstrated a repeatable creative production process.",
+    "featured": false,
+    "interactionDemo": "motion-breakdown"
+  },
+  {
+    "id": 25,
+    "slug": "3m-product-and-training-animations",
+    "title": "3M - Product and Training Animations",
+    "client": "3M",
+    "image": "/images/portfolio/25.jpg",
+    "legacyUrl": "http://www.aol.com",
+    "tags": [
+      "Animation"
+    ],
+    "category": [
+      "animation",
+      "motion"
+    ],
+    "role": "Creative UX Motion Designer",
+    "yearRange": "2002-2012",
+    "tools": [
+      "Storyboarding",
+      "Motion Design",
+      "After Effects",
+      "Timing Curves",
+      "Narrative Prototyping"
+    ],
+    "summary": "I directed motion design for 3M - Product and Training Animations to turn dense information into clear, engaging visual storytelling.",
+    "challenge": "Stakeholders needed high-retention communication pieces that could explain ideas quickly without sacrificing brand quality.",
+    "approach": "I built a storyboard-to-animation workflow with timing tests, narration alignment, and iterative critique loops.",
+    "outcome": "The final assets increased audience comprehension, improved message recall, and gave teams reusable motion patterns for future campaigns.",
+    "featured": false,
+    "interactionDemo": "motion-breakdown"
+  },
+  {
+    "id": 26,
+    "slug": "marriott-internal-intranet",
+    "title": "Marriott - Internal Intranet",
+    "client": "Marriott",
+    "image": "/images/portfolio/26.jpg",
+    "legacyUrl": "http://www.aol.com",
+    "tags": [
+      "User Experience",
+      "Design",
+      "Wireframes",
+      "Prototype"
+    ],
+    "category": [
+      "ux",
+      "strategy",
+      "prototype"
+    ],
+    "role": "Lead UX Designer & Consultant",
+    "yearRange": "2010-2025",
+    "tools": [
+      "Figma",
+      "Axure RP",
+      "Design Systems",
+      "Usability Testing",
+      "Journey Mapping"
+    ],
+    "summary": "I designed a people-centered digital experience for Marriott - Internal Intranet focused on intuitive navigation and stronger day-to-day usability.",
+    "challenge": "A wide mix of user needs and content depth created avoidable friction across common and repeat workflows.",
+    "approach": "I led discovery sessions, reworked content hierarchy, and built iterative prototypes to align product goals with real user behavior.",
+    "outcome": "The redesign improved findability, reduced navigation fatigue, and created a more durable UX framework for future iterations.",
+    "featured": false,
+    "interactionDemo": "ux-process-map"
+  },
+  {
+    "id": 27,
+    "slug": "kindercare-education-internal-intranet",
+    "title": "KinderCare Education - Internal Intranet",
+    "client": "KinderCare Education",
+    "image": "/images/portfolio/27.jpg",
+    "legacyUrl": "http://www.aol.com",
+    "tags": [
+      "User Experience",
+      "Design",
+      "Wireframes",
+      "Prototype"
+    ],
+    "category": [
+      "ux",
+      "strategy",
+      "prototype"
+    ],
+    "role": "Lead UX Designer & Consultant",
+    "yearRange": "2010-2025",
+    "tools": [
+      "Figma",
+      "Axure RP",
+      "Design Systems",
+      "Usability Testing",
+      "Journey Mapping"
+    ],
+    "summary": "I designed a people-centered digital experience for KinderCare Education - Internal Intranet focused on intuitive navigation and stronger day-to-day usability.",
+    "challenge": "A wide mix of user needs and content depth created avoidable friction across common and repeat workflows.",
+    "approach": "I led discovery sessions, reworked content hierarchy, and built iterative prototypes to align product goals with real user behavior.",
+    "outcome": "The redesign improved findability, reduced navigation fatigue, and created a more durable UX framework for future iterations.",
+    "featured": false,
+    "interactionDemo": "ux-process-map"
+  },
+  {
+    "id": 28,
+    "slug": "calpine-public-site-design",
+    "title": "Calpine - Public Site Design",
+    "client": "Calpine",
+    "image": "/images/portfolio/28.jpg",
+    "legacyUrl": "http://www.aol.com",
+    "tags": [
+      "User Experience",
+      "Design",
+      "Wireframes",
+      "Prototype"
+    ],
+    "category": [
+      "ux",
+      "strategy",
+      "prototype"
+    ],
+    "role": "Lead UX Designer & Consultant",
+    "yearRange": "2010-2025",
+    "tools": [
+      "Figma",
+      "Axure RP",
+      "Design Systems",
+      "Usability Testing",
+      "Journey Mapping"
+    ],
+    "summary": "I modernized Calpine - Public Site Design with enterprise-grade UX patterns that improve discoverability, flow efficiency, and cross-team alignment.",
+    "challenge": "Legacy structures and fragmented workflows made it difficult for teams to locate information and complete tasks efficiently.",
+    "approach": "I combined workflow mapping, interaction modeling, and prototype reviews to simplify complexity and de-risk delivery decisions.",
+    "outcome": "The updated experience improved task efficiency, strengthened internal adoption confidence, and accelerated implementation clarity.",
+    "featured": false,
+    "interactionDemo": "ux-process-map"
+  },
+  {
+    "id": 29,
+    "slug": "donaldson-company-inc",
+    "title": "Donaldson Company, Inc",
+    "client": "Donaldson Company, Inc",
+    "image": "/images/portfolio/29.jpg",
+    "legacyUrl": "http://www.aol.com",
+    "tags": [
+      "User Experience",
+      "Design",
+      "Wireframes",
+      "Prototype"
+    ],
+    "category": [
+      "ux",
+      "strategy",
+      "prototype"
+    ],
+    "role": "Lead UX Designer & Consultant",
+    "yearRange": "2010-2025",
+    "tools": [
+      "Figma",
+      "Axure RP",
+      "Design Systems",
+      "Usability Testing",
+      "Journey Mapping"
+    ],
+    "summary": "I modernized Donaldson Company, Inc with enterprise-grade UX patterns that improve discoverability, flow efficiency, and cross-team alignment.",
+    "challenge": "Legacy structures and fragmented workflows made it difficult for teams to locate information and complete tasks efficiently.",
+    "approach": "I combined workflow mapping, interaction modeling, and prototype reviews to simplify complexity and de-risk delivery decisions.",
+    "outcome": "The updated experience improved task efficiency, strengthened internal adoption confidence, and accelerated implementation clarity.",
+    "featured": false,
+    "interactionDemo": "ux-process-map"
+  },
+  {
+    "id": 30,
+    "slug": "visa-cloud-design",
+    "title": "Visa - Cloud Design",
+    "client": "Visa",
+    "image": "/images/portfolio/30.jpg",
+    "legacyUrl": "http://www.aol.com",
+    "tags": [
+      "User Experience",
+      "Design",
+      "Wireframes",
+      "Prototype"
+    ],
+    "category": [
+      "ux",
+      "strategy",
+      "prototype"
+    ],
+    "role": "Lead UX Designer & Consultant",
+    "yearRange": "2010-2025",
+    "tools": [
+      "Figma",
+      "Axure RP",
+      "Design Systems",
+      "Usability Testing",
+      "Journey Mapping"
+    ],
+    "summary": "I translated complex financial and risk content for Visa - Cloud Design into decision-friendly flows that feel trustworthy and easy to navigate.",
+    "challenge": "Users faced complex information density and compliance-sensitive content that made key decisions harder than they should be.",
+    "approach": "I used IA restructuring, progressive disclosure, and prototype-led validation to make paths clearer without losing necessary detail.",
+    "outcome": "The resulting UX improved confidence in core decisions and gave stakeholders a cleaner path from strategy to implementation.",
+    "featured": false,
+    "interactionDemo": "ux-process-map"
+  },
+  {
+    "id": 31,
+    "slug": "general-mills-mobile-application",
+    "title": "General Mills - Mobile Application",
+    "client": "General Mills",
+    "image": "/images/portfolio/31.jpg",
+    "legacyUrl": "http://www.aol.com",
+    "tags": [
+      "User Experience",
+      "Design",
+      "Wireframes",
+      "Prototype"
+    ],
+    "category": [
+      "ux",
+      "strategy",
+      "prototype"
+    ],
+    "role": "Lead UX Designer & Consultant",
+    "yearRange": "2010-2025",
+    "tools": [
+      "Figma",
+      "Axure RP",
+      "Design Systems",
+      "Usability Testing",
+      "Journey Mapping"
+    ],
+    "summary": "I crafted a mobile-first product experience that makes everyday tasks faster, clearer, and easier to complete on the go.",
+    "challenge": "Users needed efficient mobile flows under real-world constraints, but legacy patterns introduced extra taps and avoidable cognitive load.",
+    "approach": "I prioritized core journeys, tightened interaction states, and validated prototypes with scenario-based reviews focused on speed and comprehension.",
+    "outcome": "The final direction improved mobile flow efficiency, reduced task friction, and gave product teams a stronger foundation for iterative release planning.",
+    "featured": true,
+    "interactionDemo": "ux-process-map"
+  },
+  {
+    "id": 32,
+    "slug": "babson-college",
+    "title": "Babson College",
+    "client": "Babson College",
+    "image": "/images/portfolio/32.jpg",
+    "legacyUrl": "http://www.aol.com",
+    "tags": [
+      "User Experience",
+      "Design",
+      "Wireframes",
+      "Prototype"
+    ],
+    "category": [
+      "ux",
+      "strategy",
+      "prototype"
+    ],
+    "role": "Lead UX Designer & Consultant",
+    "yearRange": "2010-2025",
+    "tools": [
+      "Figma",
+      "Axure RP",
+      "Design Systems",
+      "Usability Testing",
+      "Journey Mapping"
+    ],
+    "summary": "I designed a people-centered digital experience for Babson College focused on intuitive navigation and stronger day-to-day usability.",
+    "challenge": "A wide mix of user needs and content depth created avoidable friction across common and repeat workflows.",
+    "approach": "I led discovery sessions, reworked content hierarchy, and built iterative prototypes to align product goals with real user behavior.",
+    "outcome": "The redesign improved findability, reduced navigation fatigue, and created a more durable UX framework for future iterations.",
+    "featured": false,
+    "interactionDemo": "ux-process-map"
+  },
+  {
+    "id": 33,
+    "slug": "voya-financial-retirement-experience",
+    "title": "Voya Financial - Retirement Experience",
+    "client": "Voya Financial",
+    "image": "/images/portfolio/33.jpg",
+    "legacyUrl": "http://www.aol.com",
+    "tags": [
+      "User Experience",
+      "Design",
+      "Wireframes",
+      "Prototype"
+    ],
+    "category": [
+      "ux",
+      "strategy",
+      "prototype"
+    ],
+    "role": "Lead UX Designer & Consultant",
+    "yearRange": "2010-2025",
+    "tools": [
+      "Figma",
+      "Axure RP",
+      "Design Systems",
+      "Usability Testing",
+      "Journey Mapping"
+    ],
+    "summary": "I redesigned retirement planning experiences to make complex financial decisions feel approachable, actionable, and trustworthy.",
+    "challenge": "Users were confronting high-stakes planning decisions through dense interfaces that obscured priorities and next steps.",
+    "approach": "I translated complex requirements into clearer decision paths, progressive disclosure patterns, and prototype-tested guidance moments.",
+    "outcome": "The updated experience improved decision confidence, reduced ambiguity in core flows, and better supported long-term planning behaviors.",
+    "featured": true,
+    "interactionDemo": "ux-process-map"
+  },
+  {
+    "id": 34,
+    "slug": "aaron-s-rent-to-own-pos-system-design",
+    "title": "Aaron's: Rent to Own - POS System Design",
+    "client": "Aaron's: Rent to Own",
+    "image": "/images/portfolio/34.jpg",
+    "legacyUrl": "http://www.aol.com",
+    "tags": [
+      "User Experience",
+      "Design",
+      "Wireframes",
+      "Prototype"
+    ],
+    "category": [
+      "ux",
+      "strategy",
+      "prototype"
+    ],
+    "role": "Lead UX Designer & Consultant",
+    "yearRange": "2010-2025",
+    "tools": [
+      "Figma",
+      "Axure RP",
+      "Design Systems",
+      "Usability Testing",
+      "Journey Mapping"
+    ],
+    "summary": "I modernized Aaron's: Rent to Own - POS System Design with enterprise-grade UX patterns that improve discoverability, flow efficiency, and cross-team alignment.",
+    "challenge": "Legacy structures and fragmented workflows made it difficult for teams to locate information and complete tasks efficiently.",
+    "approach": "I combined workflow mapping, interaction modeling, and prototype reviews to simplify complexity and de-risk delivery decisions.",
+    "outcome": "The updated experience improved task efficiency, strengthened internal adoption confidence, and accelerated implementation clarity.",
+    "featured": false,
+    "interactionDemo": "ux-process-map"
+  },
+  {
+    "id": 35,
+    "slug": "schwan-s-company-delivery-software-design",
+    "title": "Schwan's Company - Delivery Software Design",
+    "client": "Schwan's Company",
+    "image": "/images/portfolio/35.jpg",
+    "legacyUrl": "http://www.aol.com",
+    "tags": [
+      "User Experience",
+      "Design",
+      "Wireframes",
+      "Prototype"
+    ],
+    "category": [
+      "ux",
+      "strategy",
+      "prototype"
+    ],
+    "role": "Lead UX Designer & Consultant",
+    "yearRange": "2010-2025",
+    "tools": [
+      "Figma",
+      "Axure RP",
+      "Design Systems",
+      "Usability Testing",
+      "Journey Mapping"
+    ],
+    "summary": "I modernized Schwan's Company - Delivery Software Design with enterprise-grade UX patterns that improve discoverability, flow efficiency, and cross-team alignment.",
+    "challenge": "Legacy structures and fragmented workflows made it difficult for teams to locate information and complete tasks efficiently.",
+    "approach": "I combined workflow mapping, interaction modeling, and prototype reviews to simplify complexity and de-risk delivery decisions.",
+    "outcome": "The updated experience improved task efficiency, strengthened internal adoption confidence, and accelerated implementation clarity.",
+    "featured": false,
+    "interactionDemo": "ux-process-map"
+  },
+  {
+    "id": 36,
+    "slug": "supervalu-grocery-training-animation",
+    "title": "SuperValu Grocery - Training Animation",
+    "client": "SuperValu Grocery",
+    "image": "/images/portfolio/36.jpg",
+    "legacyUrl": "http://www.aol.com",
+    "tags": [
+      "Animation"
+    ],
+    "category": [
+      "animation",
+      "motion"
+    ],
+    "role": "Creative UX Motion Designer",
+    "yearRange": "2002-2012",
+    "tools": [
+      "Storyboarding",
+      "Motion Design",
+      "After Effects",
+      "Timing Curves",
+      "Narrative Prototyping"
+    ],
+    "summary": "I directed motion design for SuperValu Grocery - Training Animation to turn dense information into clear, engaging visual storytelling.",
+    "challenge": "Stakeholders needed high-retention communication pieces that could explain ideas quickly without sacrificing brand quality.",
+    "approach": "I built a storyboard-to-animation workflow with timing tests, narration alignment, and iterative critique loops.",
+    "outcome": "The final assets increased audience comprehension, improved message recall, and gave teams reusable motion patterns for future campaigns.",
+    "featured": false,
+    "interactionDemo": "motion-breakdown"
+  },
+  {
+    "id": 37,
+    "slug": "nickelodeon-a-side-winter-animation",
+    "title": "Nickelodeon - A Side Winter Animation",
+    "client": "Nickelodeon",
+    "image": "/images/portfolio/37.jpg",
+    "legacyUrl": "http://www.aol.com",
+    "tags": [
+      "Animation"
+    ],
+    "category": [
+      "animation",
+      "motion"
+    ],
+    "role": "Creative UX Motion Designer",
+    "yearRange": "2002-2012",
+    "tools": [
+      "Storyboarding",
+      "Motion Design",
+      "After Effects",
+      "Timing Curves",
+      "Narrative Prototyping"
+    ],
+    "summary": "I crafted playful motion concepts for Nickelodeon - A Side Winter Animation that blend character, timing, and narrative rhythm into memorable experiences.",
+    "challenge": "The creative needed to feel fun and distinctive while still communicating clearly across short attention windows.",
+    "approach": "I iterated rapidly through styleframes, animatics, and motion timing passes to tune personality, pacing, and story beats.",
+    "outcome": "The delivered work strengthened brand personality, increased engagement, and demonstrated a repeatable creative production process.",
+    "featured": false,
+    "interactionDemo": "motion-breakdown"
+  },
+  {
+    "id": 38,
+    "slug": "character-animation-movement-test",
+    "title": "Character Animation Movement Test",
+    "client": "Character Animation Movement Test",
+    "image": "/images/portfolio/38.jpg",
+    "legacyUrl": "http://www.aol.com",
+    "tags": [
+      "Animation"
+    ],
+    "category": [
+      "animation",
+      "motion"
+    ],
+    "role": "Creative UX Motion Designer",
+    "yearRange": "2002-2012",
+    "tools": [
+      "Storyboarding",
+      "Motion Design",
+      "After Effects",
+      "Timing Curves",
+      "Narrative Prototyping"
+    ],
+    "summary": "I crafted playful motion concepts for Character Animation Movement Test that blend character, timing, and narrative rhythm into memorable experiences.",
+    "challenge": "The creative needed to feel fun and distinctive while still communicating clearly across short attention windows.",
+    "approach": "I iterated rapidly through styleframes, animatics, and motion timing passes to tune personality, pacing, and story beats.",
+    "outcome": "The delivered work strengthened brand personality, increased engagement, and demonstrated a repeatable creative production process.",
+    "featured": false,
+    "interactionDemo": "motion-breakdown"
+  },
+  {
+    "id": 39,
+    "slug": "character-animation-face-body-test",
+    "title": "Character Animation Face/Body Test",
+    "client": "Character Animation Face/Body Test",
+    "image": "/images/portfolio/39.jpg",
+    "legacyUrl": "http://www.aol.com",
+    "tags": [
+      "Animation"
+    ],
+    "category": [
+      "animation",
+      "motion"
+    ],
+    "role": "Creative UX Motion Designer",
+    "yearRange": "2002-2012",
+    "tools": [
+      "Storyboarding",
+      "Motion Design",
+      "After Effects",
+      "Timing Curves",
+      "Narrative Prototyping"
+    ],
+    "summary": "I crafted playful motion concepts for Character Animation Face/Body Test that blend character, timing, and narrative rhythm into memorable experiences.",
+    "challenge": "The creative needed to feel fun and distinctive while still communicating clearly across short attention windows.",
+    "approach": "I iterated rapidly through styleframes, animatics, and motion timing passes to tune personality, pacing, and story beats.",
+    "outcome": "The delivered work strengthened brand personality, increased engagement, and demonstrated a repeatable creative production process.",
+    "featured": false,
+    "interactionDemo": "motion-breakdown"
+  },
+  {
+    "id": 40,
+    "slug": "hand-vs-foot-fun-video",
+    "title": "Hand vs Foot - Fun Video",
+    "client": "Hand vs Foot",
+    "image": "/images/portfolio/40.jpg",
+    "legacyUrl": "http://www.aol.com",
+    "tags": [
+      "Animation"
+    ],
+    "category": [
+      "animation",
+      "motion"
+    ],
+    "role": "Creative UX Motion Designer",
+    "yearRange": "2002-2012",
+    "tools": [
+      "Storyboarding",
+      "Motion Design",
+      "After Effects",
+      "Timing Curves",
+      "Narrative Prototyping"
+    ],
+    "summary": "I crafted playful motion concepts for Hand vs Foot - Fun Video that blend character, timing, and narrative rhythm into memorable experiences.",
+    "challenge": "The creative needed to feel fun and distinctive while still communicating clearly across short attention windows.",
+    "approach": "I iterated rapidly through styleframes, animatics, and motion timing passes to tune personality, pacing, and story beats.",
+    "outcome": "The delivered work strengthened brand personality, increased engagement, and demonstrated a repeatable creative production process.",
+    "featured": false,
+    "interactionDemo": "motion-breakdown"
+  },
+  {
+    "id": 41,
+    "slug": "nickelodeon-b-side-winter-animation",
+    "title": "Nickelodeon - B Side Winter Animation",
+    "client": "Nickelodeon",
+    "image": "/images/portfolio/41.jpg",
+    "legacyUrl": "http://www.aol.com",
+    "tags": [
+      "Animation"
+    ],
+    "category": [
+      "animation",
+      "motion"
+    ],
+    "role": "Creative UX Motion Designer",
+    "yearRange": "2002-2012",
+    "tools": [
+      "Storyboarding",
+      "Motion Design",
+      "After Effects",
+      "Timing Curves",
+      "Narrative Prototyping"
+    ],
+    "summary": "I crafted playful motion concepts for Nickelodeon - B Side Winter Animation that blend character, timing, and narrative rhythm into memorable experiences.",
+    "challenge": "The creative needed to feel fun and distinctive while still communicating clearly across short attention windows.",
+    "approach": "I iterated rapidly through styleframes, animatics, and motion timing passes to tune personality, pacing, and story beats.",
+    "outcome": "The delivered work strengthened brand personality, increased engagement, and demonstrated a repeatable creative production process.",
+    "featured": false,
+    "interactionDemo": "motion-breakdown"
+  },
+  {
+    "id": 42,
+    "slug": "micebox-stop-motion-animation-2",
+    "title": "Micebox - Stop Motion Animation",
+    "client": "Micebox",
+    "image": "/images/portfolio/42.jpg",
+    "legacyUrl": "http://www.aol.com",
+    "tags": [
+      "Animation"
+    ],
+    "category": [
+      "animation",
+      "motion"
+    ],
+    "role": "Creative UX Motion Designer",
+    "yearRange": "2002-2012",
+    "tools": [
+      "Storyboarding",
+      "Motion Design",
+      "After Effects",
+      "Timing Curves",
+      "Narrative Prototyping"
+    ],
+    "summary": "I crafted playful motion concepts for Micebox - Stop Motion Animation that blend character, timing, and narrative rhythm into memorable experiences.",
+    "challenge": "The creative needed to feel fun and distinctive while still communicating clearly across short attention windows.",
+    "approach": "I iterated rapidly through styleframes, animatics, and motion timing passes to tune personality, pacing, and story beats.",
+    "outcome": "The delivered work strengthened brand personality, increased engagement, and demonstrated a repeatable creative production process.",
+    "featured": false,
+    "interactionDemo": "motion-breakdown"
+  },
+  {
+    "id": 43,
+    "slug": "nickelodeon-b-side-animatic-for-winter",
+    "title": "Nickelodeon - B Side Animatic for Winter",
+    "client": "Nickelodeon",
+    "image": "/images/portfolio/43.jpg",
+    "legacyUrl": "http://www.aol.com",
+    "tags": [
+      "Animation"
+    ],
+    "category": [
+      "animation",
+      "motion"
+    ],
+    "role": "Creative UX Motion Designer",
+    "yearRange": "2002-2012",
+    "tools": [
+      "Storyboarding",
+      "Motion Design",
+      "After Effects",
+      "Timing Curves",
+      "Narrative Prototyping"
+    ],
+    "summary": "I crafted playful motion concepts for Nickelodeon - B Side Animatic for Winter that blend character, timing, and narrative rhythm into memorable experiences.",
+    "challenge": "The creative needed to feel fun and distinctive while still communicating clearly across short attention windows.",
+    "approach": "I iterated rapidly through styleframes, animatics, and motion timing passes to tune personality, pacing, and story beats.",
+    "outcome": "The delivered work strengthened brand personality, increased engagement, and demonstrated a repeatable creative production process.",
+    "featured": false,
+    "interactionDemo": "motion-breakdown"
+  },
+  {
+    "id": 44,
+    "slug": "unitedhealth-group-optumrx-flowrx",
+    "title": "UnitedHealth Group - OptumRx - FlowRx",
+    "client": "UnitedHealth Group",
+    "image": "/images/portfolio/44.jpg",
+    "legacyUrl": "http://www.aol.com",
+    "tags": [
+      "User Experience",
+      "Design",
+      "Wireframes",
+      "Prototype"
+    ],
+    "category": [
+      "ux",
+      "strategy",
+      "prototype"
+    ],
+    "role": "Lead UX Designer & Consultant",
+    "yearRange": "2010-2025",
+    "tools": [
+      "Figma",
+      "Axure RP",
+      "Design Systems",
+      "Usability Testing",
+      "Journey Mapping"
+    ],
+    "summary": "I led UX improvements for FlowRx to support faster, safer decision-making in high-volume pharmacy workflows.",
+    "challenge": "Clinical and operations teams needed to process complex workflow states quickly, where unclear transitions could introduce delay and risk.",
+    "approach": "I collaborated with product and operations stakeholders to simplify state logic, tighten interaction feedback, and validate flow updates against real usage scenarios.",
+    "outcome": "The solution delivered a more stable and intuitive workflow model that increased operational confidence while reducing avoidable handoff friction.",
+    "featured": true,
+    "interactionDemo": "ux-process-map"
+  },
+  {
+    "id": 45,
+    "slug": "america-s-best-contacts-and-eyeglasses-cloud-child-records-and-screening-results",
+    "title": "America's Best : Contacts & Eyeglasses - Cloud Child Records and Screening Results",
+    "client": "America's Best : Contacts & Eyeglasses",
+    "image": "/images/portfolio/45.jpg",
+    "legacyUrl": "http://www.aol.com",
+    "tags": [
+      "User Experience",
+      "Design",
+      "Wireframes",
+      "Prototype"
+    ],
+    "category": [
+      "ux",
+      "strategy",
+      "prototype"
+    ],
+    "role": "Lead UX Designer & Consultant",
+    "yearRange": "2010-2025",
+    "tools": [
+      "Figma",
+      "Axure RP",
+      "Design Systems",
+      "Usability Testing",
+      "Journey Mapping"
+    ],
+    "summary": "I designed a healthcare-oriented UX experience for America's Best : Contacts & Eyeglasses - Cloud Child Records and Screening Results that improves clarity in complex, high-consequence workflows.",
+    "challenge": "Critical users needed to act quickly with confidence, but dense interfaces and unclear priorities increased decision friction.",
+    "approach": "I mapped scenario-based journeys, clarified key states and handoffs, and iterated prototypes with stakeholders to improve comprehension and speed.",
+    "outcome": "The experience reduced ambiguity, supported safer task completion, and gave teams a clearer foundation for scale and governance.",
+    "featured": false,
+    "interactionDemo": "ux-process-map"
+  },
+  {
+    "id": 46,
+    "slug": "certainteed-internal-resources",
+    "title": "CertainTeed Internal Resources",
+    "client": "CertainTeed Internal Resources",
+    "image": "/images/portfolio/46.jpg",
+    "legacyUrl": "http://www.aol.com",
+    "tags": [
+      "User Experience",
+      "Design",
+      "Wireframes",
+      "Prototype"
+    ],
+    "category": [
+      "ux",
+      "strategy",
+      "prototype"
+    ],
+    "role": "Lead UX Designer & Consultant",
+    "yearRange": "2010-2025",
+    "tools": [
+      "Figma",
+      "Axure RP",
+      "Design Systems",
+      "Usability Testing",
+      "Journey Mapping"
+    ],
+    "summary": "I modernized CertainTeed Internal Resources with enterprise-grade UX patterns that improve discoverability, flow efficiency, and cross-team alignment.",
+    "challenge": "Legacy structures and fragmented workflows made it difficult for teams to locate information and complete tasks efficiently.",
+    "approach": "I combined workflow mapping, interaction modeling, and prototype reviews to simplify complexity and de-risk delivery decisions.",
+    "outcome": "The updated experience improved task efficiency, strengthened internal adoption confidence, and accelerated implementation clarity.",
+    "featured": false,
+    "interactionDemo": "ux-process-map"
+  }
+]

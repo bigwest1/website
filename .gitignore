@@ -1,3 +1,13 @@
+# Node / Next
+node_modules/
+.next/
+out/
+.vercel/
+
+# Local env
+.env
+.env.local
+.env.*.local
 
 # Large media
 *.mp4
@@ -5,8 +15,8 @@
 *.psd
 .DS_Store
 
-# Large media
-*.mp4
-*.mov
-*.psd
-.DS_Store
+# TypeScript
+*.tsbuildinfo
+
+# QA artifacts (local only)
+qa-artifacts/
