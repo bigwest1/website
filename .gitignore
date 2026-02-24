@@ -20,3 +20,4 @@ out/
 
 # QA artifacts (local only)
 qa-artifacts/
+.vercel
