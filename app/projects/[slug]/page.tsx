@@ -67,7 +67,14 @@ export default function ProjectDetailPage({ params }: ProjectPageProps) {
       <div className="container" style={{ display: "grid", gap: "1.3rem" }}>
         <div className="glass-card case-hero-card" style={{ overflow: "hidden" }} data-case-hero data-case-reveal>
           <div className="case-hero-media" data-case-hero-media>
-            <Image src={project.image} alt={project.title} fill sizes="100vw" priority />
+            <Image
+              src={project.image}
+              alt={project.title}
+              fill
+              sizes="100vw"
+              style={{ objectFit: "cover", objectPosition: "50% 28%" }}
+              priority
+            />
           </div>
           <div className="case-hero-copy" data-case-hero-copy>
             <p className="section-kicker">{project.role}</p>

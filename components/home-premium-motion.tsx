@@ -23,10 +23,10 @@ export function HomePremiumMotion({ scopeId }: { scopeId: string }) {
     const ctx = gsap.context(() => {
       gsap.from("[data-home-hero-reveal]", {
         opacity: 0,
-        y: 16,
-        duration: 0.58,
-        ease: "power2.out",
-        stagger: 0.06
+        y: 22,
+        duration: 0.72,
+        ease: "power3.out",
+        stagger: 0.08
       });
 
       gsap.utils.toArray<HTMLElement>("[data-home-section-wrap]").forEach((element) => {
@@ -38,13 +38,13 @@ export function HomePremiumMotion({ scopeId }: { scopeId: string }) {
 
         gsap.from(targets, {
           opacity: 0,
-          y: 24,
-          duration: 0.68,
-          stagger: 0.1,
-          ease: "power2.out",
+          y: 30,
+          duration: 0.75,
+          stagger: 0.12,
+          ease: "power3.out",
           scrollTrigger: {
             trigger: element,
-            start: "top 78%"
+            start: "top 80%"
           }
         });
       });
@@ -79,13 +79,27 @@ export function HomePremiumMotion({ scopeId }: { scopeId: string }) {
 
         gsap.from(children, {
           opacity: 0,
-          y: 14,
-          duration: 0.52,
-          stagger: 0.06,
-          ease: "power2.out",
+          y: 18,
+          duration: 0.62,
+          stagger: 0.08,
+          ease: "power3.out",
           scrollTrigger: {
             trigger: element,
             start: "top 82%"
+          }
+        });
+      });
+
+      gsap.utils.toArray<HTMLElement>(".project-card").forEach((card) => {
+        gsap.from(card, {
+          opacity: 0,
+          y: 20,
+          scale: 0.98,
+          duration: 0.65,
+          ease: "power3.out",
+          scrollTrigger: {
+            trigger: card,
+            start: "top 88%"
           }
         });
       });

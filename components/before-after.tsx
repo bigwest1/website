@@ -15,7 +15,7 @@ export function BeforeAfter({ before, after }: { before: string; after: string }
           position: "relative",
           borderRadius: "18px",
           overflow: "hidden",
-          minHeight: "300px",
+          aspectRatio: "16 / 9",
           border: "1px solid rgba(31, 59, 89, 0.14)"
         }}
       >

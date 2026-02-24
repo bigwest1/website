@@ -27,12 +27,13 @@ export default function PhotosPage() {
         <h1 className="section-title">The Person Behind the Portfolio</h1>
         <div className="card-grid" style={{ marginTop: "1.2rem" }}>
           {photos.map((photo) => (
-            <div key={photo} className="glass-card" style={{ overflow: "hidden", minHeight: "220px", position: "relative" }}>
+            <div key={photo} className="glass-card" style={{ overflow: "hidden", aspectRatio: "4 / 5", position: "relative" }}>
               <Image
                 src={`/images/photos/${photo}`}
                 alt={`Jesse Westlund photo ${photo}`}
                 fill
                 sizes="(max-width: 1040px) 100vw, 33vw"
+                style={{ objectFit: "cover", objectPosition: "50% 24%" }}
               />
             </div>
           ))}

@@ -4,6 +4,7 @@ import { ProjectExplorer } from "@/components/project-explorer";
 import { SkillsHistoryLab } from "@/components/skills-history-lab";
 import { TestimonialGrid } from "@/components/testimonial-grid";
 import { HomePremiumMotion } from "@/components/home-premium-motion";
+import { HirePathways } from "@/components/hire-pathways";
 import { featuredProjects, projects } from "@/lib/projects";
 import { testimonials } from "@/lib/testimonials";
 
@@ -12,31 +13,32 @@ export default function HomePage() {
     <div id="home-page-shell">
       <HomePremiumMotion scopeId="home-page-shell" />
       <HeroExperience />
+      <HirePathways />
 
       <section className="section" data-home-section-wrap>
         <div className="container card-grid">
           <article className="feature-card" data-home-section>
-            <p className="section-kicker">Why It Feels Different</p>
-            <h3>Playful, but never random.</h3>
+            <p className="section-kicker">What You Get</p>
+            <h3>Strategic clarity from day one.</h3>
             <p>
-              Every interaction is designed to reinforce clarity, confidence, and craft. Fun is part of the brand,
-              but professionalism stays intact.
+              Discovery, prioritization, and interaction direction are structured so teams can make confident product
+              decisions fast.
             </p>
           </article>
           <article className="feature-card" data-home-section>
-            <p className="section-kicker">What You See</p>
-            <h3>Proof, not buzzwords.</h3>
+            <p className="section-kicker">How Work Ships</p>
+            <h3>Creative UX with implementation rigor.</h3>
             <p>
-              This portfolio demonstrates strategy, process, interaction detail, and delivery execution across sectors
-              and product contexts.
+              Every case story connects design intent to delivery realities, helping product and engineering teams stay
+              aligned.
             </p>
           </article>
           <article className="feature-card" data-home-section>
-            <p className="section-kicker">Why Teams Hire Jesse</p>
-            <h3>Creative + structured UX leadership.</h3>
+            <p className="section-kicker">Why Teams Return</p>
+            <h3>A partner mindset, not just design output.</h3>
             <p>
-              From discovery to launch, Jesse brings rigor, momentum, and design quality that helps teams ship with
-              conviction.
+              Jesse brings momentum, candor, and craft, so stakeholders feel supported and users get a noticeably better
+              experience.
             </p>
           </article>
         </div>

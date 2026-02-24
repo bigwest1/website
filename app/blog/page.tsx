@@ -27,12 +27,13 @@ export default function BlogPage() {
         <div className="blog-grid" style={{ marginTop: "1.2rem" }}>
           {posts.map((post) => (
             <article key={post.slug} className="blog-card">
-              <div style={{ position: "relative", minHeight: "180px" }}>
+              <div style={{ position: "relative" }}>
                 <Image
                   src={post.heroImage ?? "/images/blog/1.jpg"}
                   alt={post.title}
                   fill
                   sizes="(max-width: 1040px) 100vw, 33vw"
+                  style={{ objectFit: "cover", objectPosition: "50% 28%" }}
                 />
               </div>
               <div className="blog-card-content">

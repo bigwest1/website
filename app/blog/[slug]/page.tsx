@@ -47,8 +47,15 @@ export default function BlogPostPage({ params }: BlogPostPageProps) {
       <div className="container article-shell">
         <article className="glass-card" style={{ padding: "1.2rem" }}>
           {post.heroImage ? (
-            <div style={{ position: "relative", minHeight: "280px", borderRadius: "18px", overflow: "hidden" }}>
-              <Image src={post.heroImage} alt={post.title} fill sizes="100vw" priority />
+            <div style={{ position: "relative", aspectRatio: "16 / 9", borderRadius: "18px", overflow: "hidden" }}>
+              <Image
+                src={post.heroImage}
+                alt={post.title}
+                fill
+                sizes="100vw"
+                style={{ objectFit: "cover", objectPosition: "50% 30%" }}
+                priority
+              />
             </div>
           ) : null}
 

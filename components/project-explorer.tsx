@@ -4,6 +4,7 @@ import { AnimatePresence, motion } from "framer-motion";
 import { useMemo, useState } from "react";
 import type { Project } from "@/lib/types";
 import { MagneticProjectCard } from "@/components/magnetic-project-card";
+import { trackPortfolioEvent } from "@/lib/analytics";
 
 const projectFilterLabels: Record<string, string> = {
   all: "All",
@@ -70,7 +71,10 @@ export function ProjectExplorer({
               className="filter-chip"
               data-active={entry === filter}
               type="button"
-              onClick={() => setFilter(entry)}
+              onClick={() => {
+                setFilter(entry);
+                trackPortfolioEvent("interaction_complete", { section: "project_filter", mode: entry });
+              }}
             >
               {projectFilterLabels[entry] ?? entry}
             </button>
