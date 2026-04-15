@@ -1,0 +1,27 @@
+{
+  "name": "course-creator-os",
+  "version": "0.1.0",
+  "private": true,
+  "packageManager": "npm@10.9.2",
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev": "npm run dev --workspace @course-creator-os/desktop",
+    "build": "npm run build --workspace @course-creator-os/desktop",
+    "typecheck": "npm run typecheck --workspaces --if-present",
+    "test": "npm run test --workspaces --if-present",
+    "typecheck:turbo": "turbo run typecheck",
+    "test:turbo": "turbo run test",
+    "tauri:dev": "npm run tauri:dev --workspace @course-creator-os/desktop",
+    "tauri:build": "npm run tauri:build --workspace @course-creator-os/desktop"
+  },
+  "devDependencies": {
+    "turbo": "^2.5.8",
+    "typescript": "^6.0.1"
+  }
+}

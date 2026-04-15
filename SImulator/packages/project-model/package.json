@@ -1,0 +1,27 @@
+{
+  "name": "@course-creator-os/project-model",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "scripts": {
+    "typecheck": "tsc -p tsconfig.json --noEmit"
+  },
+  "dependencies": {
+    "@course-creator-os/asset-system": "0.1.0",
+    "@course-creator-os/core-types": "0.1.0",
+    "@course-creator-os/course-bible": "0.1.0",
+    "@course-creator-os/event-system": "0.1.0",
+    "@course-creator-os/hole-planner": "0.1.0",
+    "@course-creator-os/packaging": "0.1.0",
+    "@course-creator-os/performance": "0.1.0",
+    "@course-creator-os/preview": "0.1.0",
+    "@course-creator-os/scene-authoring": "0.1.0",
+    "@course-creator-os/sim-logic": "0.1.0",
+    "@course-creator-os/versioning": "0.1.0",
+    "@course-creator-os/world-system": "0.1.0",
+    "zod": "^4.3.6"
+  }
+}

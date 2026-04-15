@@ -1,0 +1,23 @@
+{
+  "name": "@course-creator-os/storage",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts",
+    "./project-bundle": "./src/project-bundle.ts"
+  },
+  "scripts": {
+    "typecheck": "tsc -p tsconfig.json --noEmit",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "@course-creator-os/project-model": "0.1.0",
+    "@course-creator-os/validation": "0.1.0",
+    "zod": "^4.3.6"
+  },
+  "devDependencies": {
+    "@types/node": "^25.6.0",
+    "vitest": "^4.1.4"
+  }
+}

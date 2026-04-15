@@ -1,0 +1,18 @@
+node_modules
+dist
+.DS_Store
+coverage
+*.log
+*.db
+*.sqlite
+*.sqlite3
+
+# Rust / Tauri
+target
+src-tauri/target
+src-tauri/gen
+
+# Build artifacts
+apps/*/dist
+packages/*/dist
+

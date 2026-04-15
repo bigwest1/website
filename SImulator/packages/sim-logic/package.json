@@ -1,0 +1,19 @@
+{
+  "name": "@course-creator-os/sim-logic",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "scripts": {
+    "typecheck": "tsc -p tsconfig.json --noEmit",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "@course-creator-os/hole-planner": "0.1.0",
+    "@course-creator-os/preview": "0.1.0",
+    "@course-creator-os/scene-authoring": "0.1.0",
+    "zod": "^4.3.6"
+  }
+}
